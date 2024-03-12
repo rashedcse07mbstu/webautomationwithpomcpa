@@ -1,8 +1,8 @@
-#Implementing automated features in below:
+#automating CPA Online JOB Application features following in below:
 # Selenium webDriver with TestNG Framework
 # Page Object Model Design Pattern
 # Selenium Webdriver with TestNG Framework
-#CPA Online Job Application Form Compliton Process Automation
+#CPA Online Job Application Form Completion Process Automation
 #Dynamically added NID, Photo, Signature, no dependency with any local machine
 # use gradle build tool
 #config.properties
